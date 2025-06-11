@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">course-reservation</string>
+    <string name="title_activity_main">course-reservation</string>
+    <string name="package_name">com.my.coursereservation</string>
+    <string name="custom_url_scheme">com.my.coursereservation</string>
+</resources>
